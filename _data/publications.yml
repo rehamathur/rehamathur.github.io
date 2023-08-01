@@ -1,22 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: First-Principles-Based Machine Learning Models for Phase Behavior and Transport Properties of CO2
+    authors: <strong> Reha Mathur</strong>, Mario Carolina Muniz, Shuwen Yue, Roberto Car, and Athanassios Z. Panagiotopoulos
+    conference: Journal of Physical Chemistry B, 2023.
+    page: https://doi.org/10.1021/acs.jpcb.3c00610
+    code: https://dataspace.princeton.edu/handle/88435/dsp01dj52w794k
+    image: ./assets/img/first_principle.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Long-Term Aging in Miscible Polymer Nanocomposites
+    authors: Mayank Jhalaria, Andrew M. Jimenez, <strong>Reha Mathur</strong>, Marshall C. Tekell, Yucheng Huang, Suresh Narayanan, Brian C. Benicewicz, and Sanat K. Kumar
+    conference: Macromolecules, 2022.
+    page: https://doi.org/10.1021/acs.macromol.2c00332
+    image: ./assets/img/long_term_aging.gif
